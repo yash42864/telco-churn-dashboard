@@ -1,0 +1,23 @@
+feature,category,customers,churn_rate_pct
+Contract,Month-to-month,3875,42.71
+Contract,One year,1473,11.27
+Contract,Two year,1695,2.83
+Internet_Service,Fiber optic,3096,41.89
+Internet_Service,DSL,2421,18.96
+Internet_Service,No,1526,7.4
+Payment_Method,Electronic check,2365,45.29
+Payment_Method,Mailed check,1612,19.11
+Payment_Method,Bank transfer (automatic),1544,16.71
+Payment_Method,Credit card (automatic),1522,15.24
+Paperless_Billing,Yes,4171,33.57
+Paperless_Billing,No,2872,16.33
+Tech_Support,No,3473,41.64
+Tech_Support,Yes,2044,15.17
+Tech_Support,No internet service,1526,7.4
+Online_Security,No,3498,41.77
+Online_Security,Yes,2019,14.61
+Online_Security,No internet service,1526,7.4
+Partner,No,3641,32.96
+Partner,Yes,3402,19.66
+Dependents,No,5416,32.55
+Dependents,Yes,1627,6.52

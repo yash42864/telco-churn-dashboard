@@ -1,0 +1,2 @@
+target,r2,rmse,mae,baseline_rmse,baseline_mae
+Monthly_Charges,0.9989,1.0269,0.7891,30.6302,26.8223
